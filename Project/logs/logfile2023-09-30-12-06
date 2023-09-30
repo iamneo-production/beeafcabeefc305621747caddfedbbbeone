@@ -1,23 +1,23 @@
-[INFO] 2023-09-30 11:58:53,503 pages.Clothes cloth_search - Clicked Searchbar
-[INFO] 2023-09-30 11:58:53,666 pages.Clothes cloth_search - Value passed: Clothes
-[ERROR] 2023-09-30 11:58:59,349 pages.Clothes srch_cloth - Exception occurred while performing action on clothes search: timeout: Timed out receiving message from renderer: 5.000
+[INFO] 2023-09-30 12:06:28,533 pages.Clothes cloth_search - Clicked Searchbar
+[INFO] 2023-09-30 12:06:28,823 pages.Clothes cloth_search - Value passed: Clothes
+[ERROR] 2023-09-30 12:06:34,108 pages.Clothes srch_cloth - Exception occurred while performing action on clothes search: timeout: Timed out receiving message from renderer: 5.000
   (Session info: chrome=113.0.5672.63)
 Build info: version: '4.11.0', revision: '040bc5406b'
 System info: os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.107+', java.version: '11.0.20'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [cafed408c5b3e2c8371f4cc4830853fa, sendKeysToElement {id=82ACFC7BDAC4825AAD227E80ABF9EED6_element_63, value=[Ljava.lang.CharSequence;@5fef0c19}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.63, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: /tmp/.com.google.Chrome.kQKLvc}, goog:chromeOptions: {debuggerAddress: localhost:46527}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.17.0.4:4444/sessio..., se:cdpVersion: 113.0.5672.63, se:vnc: ws://172.17.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[RemoteWebDriver: chrome on linux (cafed408c5b3e2c8371f4cc4830853fa)] -> id: search_box]
-Session ID: cafed408c5b3e2c8371f4cc4830853fa
+Command: [08818d60103aee4302b1a7c6dd6ed414, sendKeysToElement {id=245D4629088C082FCBA88C24475CF725_element_57, value=[Ljava.lang.CharSequence;@581c9bb7}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.63, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: /tmp/.com.google.Chrome.4HnjMl}, goog:chromeOptions: {debuggerAddress: localhost:44151}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.17.0.4:4444/sessio..., se:cdpVersion: 113.0.5672.63, se:vnc: ws://172.17.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (08818d60103aee4302b1a7c6dd6ed414)] -> id: search_box]
+Session ID: 08818d60103aee4302b1a7c6dd6ed414
 org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 5.000
   (Session info: chrome=113.0.5672.63)
 Build info: version: '4.11.0', revision: '040bc5406b'
 System info: os.name: 'Linux', os.arch: 'amd64', os.version: '5.15.107+', java.version: '11.0.20'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [cafed408c5b3e2c8371f4cc4830853fa, sendKeysToElement {id=82ACFC7BDAC4825AAD227E80ABF9EED6_element_63, value=[Ljava.lang.CharSequence;@5fef0c19}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.63, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: /tmp/.com.google.Chrome.kQKLvc}, goog:chromeOptions: {debuggerAddress: localhost:46527}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.17.0.4:4444/sessio..., se:cdpVersion: 113.0.5672.63, se:vnc: ws://172.17.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Element: [[RemoteWebDriver: chrome on linux (cafed408c5b3e2c8371f4cc4830853fa)] -> id: search_box]
-Session ID: cafed408c5b3e2c8371f4cc4830853fa
+Command: [08818d60103aee4302b1a7c6dd6ed414, sendKeysToElement {id=245D4629088C082FCBA88C24475CF725_element_57, value=[Ljava.lang.CharSequence;@581c9bb7}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 113.0.5672.63, chrome: {chromedriverVersion: 113.0.5672.63 (0e1a4471d5ae..., userDataDir: /tmp/.com.google.Chrome.4HnjMl}, goog:chromeOptions: {debuggerAddress: localhost:44151}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.17.0.4:4444/sessio..., se:cdpVersion: 113.0.5672.63, se:vnc: ws://172.17.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.17.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (08818d60103aee4302b1a7c6dd6ed414)] -> id: search_box]
+Session ID: 08818d60103aee4302b1a7c6dd6ed414
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -37,7 +37,7 @@ Session ID: cafed408c5b3e2c8371f4cc4830853fa
 	at org.openqa.selenium.support.decorators.WebDriverDecorator.call(WebDriverDecorator.java:249)
 	at org.openqa.selenium.support.decorators.DefaultDecorated.call(DefaultDecorated.java:48)
 	at org.openqa.selenium.support.decorators.WebDriverDecorator.lambda$createProxy$2(WebDriverDecorator.java:321)
-	at net.bytebuddy.renamed.java.lang.Object$ByteBuddy$zxvWNRJK.sendKeys(Unknown Source)
+	at net.bytebuddy.renamed.java.lang.Object$ByteBuddy$a981aMsf.sendKeys(Unknown Source)
 	at utils.WebDriverHelper.enter_action(WebDriverHelper.java:70)
 	at pages.Clothes.srch_cloth(Clothes.java:55)
 	at runner.Testcase2.clothpg(Testcase2.java:31)
@@ -74,3 +74,15 @@ Session ID: cafed408c5b3e2c8371f4cc4830853fa
 	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
 	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+[INFO] 2023-09-30 12:06:38,737 pages.Clothes Ethnic_search - Ethnic Checkbox selected
+[INFO] 2023-09-30 12:06:39,265 pages.Clothes Ethnic_search - Asserted Etnic Wear
+[INFO] 2023-09-30 12:06:39,763 runner.Testcase2 clothpg - Testcase2 passed Successfully
+[INFO] 2023-09-30 12:06:44,912 pages.ToysPage toys_search - Clicked Searchbar
+[INFO] 2023-09-30 12:06:45,176 pages.ToysPage toys_search - Value passed: toys
+[INFO] 2023-09-30 12:06:49,144 pages.ToysPage toys_search - Performed Enter action
+[INFO] 2023-09-30 12:06:49,469 pages.ToysPage toys_search - Assert Successfull
+[INFO] 2023-09-30 12:06:50,109 runner.Testcase1 toyspg - Testcase1 passed Successfully
+[INFO] 2023-09-30 12:06:55,069 pages.Cart cart_verify - Clicked Searchbar
+[INFO] 2023-09-30 12:06:55,356 pages.Cart cart_verify - Value passed: balloons
+[INFO] 2023-09-30 12:06:58,650 pages.Cart cart_verify - Performed Enter action
+[INFO] 2023-09-30 12:06:59,825 pages.Cart cart_verify - Clicked 1st Item

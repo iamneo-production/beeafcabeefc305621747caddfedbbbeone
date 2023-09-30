@@ -1,3 +1,4 @@
-[INFO] 2023-09-30 11:59:00,769 pages.Clothes Ethnic_search - Ethnic Checkbox selected
-[INFO] 2023-09-30 11:59:03,537 pages.Clothes Ethnic_search - Asserted Etnic Wear
-[INFO] 2023-09-30 11:59:04,049 runner.Testcase2 clothpg - Testcase2 passed Successfully
+[INFO] 2023-09-30 12:07:03,295 pages.Cart cart_verify - Clicked 1st Item Add to cart
+[INFO] 2023-09-30 12:07:06,339 pages.Cart cart_verify - Clicked Cart
+[INFO] 2023-09-30 12:07:07,027 pages.Cart cart_verify - Asserted delivery text
+[INFO] 2023-09-30 12:07:07,366 runner.Testcase3 cartpg - Testcase3 passed Successfully
